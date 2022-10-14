@@ -30,19 +30,19 @@ class Goods {
 		this.available = available;
 	}
 
-	public String getProduct() {
+	String getProduct() {
 		return product;
 	}
 
-	public void setProduct(String product) {
+	void setProduct(String product) {
 		this.product = product;
 	}
 
-	public int getOrder() {
+	int getOrder() {
 		return order;
 	}
 
-	public void setOrder(int order) {
+	void setOrder(int order) {
 		this.order = order;
 	}
 
